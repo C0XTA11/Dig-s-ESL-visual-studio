@@ -1,0 +1,6 @@
+{
+  "name": "Remix: DIG\u0027S ESL Visuals Studio",
+  "description": "An AI-powered teaching asset generator for ESL teachers. Create and upscale 4k visuals, infographics, and grammar definitions with hidden easter eggs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
